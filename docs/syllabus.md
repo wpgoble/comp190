@@ -49,6 +49,16 @@ Following each introduction, you will complete a collection of activities that g
 
 This class will be introducing a lot of new technologies, techniques and commands. The goal is not to memorize them all, but rather to learn what they do, how they work and when to use them.  Then in future situations you will have them in your toolbox when you need them. A "cheat-sheet" can be a useful technique for organizing this type of information so that you can quickly look it up or refresh your memory when you need it.  As you go through the activities you will be asked to create and keep up to date a cheat-sheet for the new things you are learning. You will turn this cheat-sheet in at the end of the semester to demonstrate a comprehensive awareness of what you have learned and that you have it as a valuable resource for future classes.
 
+##### Cheat-Sheet Guidelines
+
+A competent cheat-sheet will:
+- Be comprehensive. It will include all of the commands introduced and used in the course.
+- Be useful.  For each command it should include:
+  - A brief explanation of the command.
+  - The general form of the command indicating required and optional arguments.
+  - One or more examples of its use, with explanations as necessary.
+- Be organized.  Commands should be divided into logical chunks where related commands are grouped together to make them easy to find.
+
 ### Assignment Grading
 
 Course assignments will be reviewed for completeness and individual questions will be marked with feedback to facilitate self-assessment of your understanding.  Overall, each assignment will be marked as “Competent” or “Not Yet Competent.”  **Any assignment marked “Not Yet Competent” must be revised and resubmitted.**  It is highly recommended that you complete this revision prior to the subsequent activity as it will often be dependent on the prior one.
