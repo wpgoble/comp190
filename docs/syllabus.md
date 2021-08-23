@@ -25,8 +25,6 @@ Students will:
 - deepen their understanding of social and ethical issues in computing and their appreciation of computing for the greater good.
 - [WiD goal] develop their ability to produce clear, concise, technical writing for developers.
 
-
-
 ### Course Components
 
 #### Readings & Discussions
@@ -72,7 +70,7 @@ Please take the time to read the Academic Misconduct section of [Dickinson's Com
 
 The specific policies for COMP190 are detailed below. If you are unsure about whether or not certain kinds of collaboration or sources are permissible on an assignment or in this course, ask your instructor.
 
-##### Collaboration
+#### Collaboration
 
 Assignments in COMP 190 are individual assignments. Sharing or receiving of answers to assignments is not permitted. All work submitted must be your own work.
 
@@ -84,7 +82,7 @@ However, you are encouraged to interact and to help each other learn.  For examp
 
 All of these types of questions can be asked of the instructor or of your classmates, either in person or on the course Teams channel. You are encouraged to ask and respond on the Teams channel. If you ask in person, please also try to post what you learn to the channel. This will ensure that others with the same questions will have access to the same helpful information that you receive.
 
-#####  Outside Sources
+####  Outside Sources
 
 There are sites where answers can be looked up or where others can be asked for solutions. There are undoubtedly assignments from last year available to some of you. There are calculators and tools that will generate answers to some problems. Regardless of the availability of these materials, **the bottom line is that you are responsible** for ensuring your own mastery of the material. Failure to do so will limit your success in this class, future classes, internships and jobs that rely on this material.
 
