@@ -11,7 +11,7 @@
 
 Date            | Class Information                                 | Homework Assigned
 ----------------|---------------------------------------------------|-------------
-                | **Introduction to Unix and the Command Line**     |
+                | **Introduction to Unix**                          |
 W 08/31/21      | Operating Systems and Virtual Machines            |
 W 09/08/21      | Unix, Shell Commands and Paths                    |
 W 09/15/21      | Unix Tools tools and Filters, grep, regex         |
