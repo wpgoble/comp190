@@ -4,17 +4,17 @@
 - [Syllabus & Course Information](syllabus.md)
 - Course Moodle
   - [Section 01 - Braught](https://lms.dickinson.edu/course/view.php?id=45779)
-  - [Section 02 - Skalak]()
-- [Microsoft Teams Channel]()
+  - [Section 02 - Skalak](https://lms.dickinson.edu/course/view.php?id=46448)
+- [COMP 190 - Microsoft Team](https://teams.microsoft.com/l/team/19%3apPXT9h7SbHOvJTIOESAfaxlNd71GaEYSy9v8e9AmhDM1%40thread.tacv2/conversations?groupId=fd8d9b73-3fc3-4a63-b4f7-2a0f89e85458&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 ## COMP 190 Outline
 
 Date            | Class Information                                 | Homework Assigned
 ----------------|---------------------------------------------------|-------------
                 | **Introduction to Unix**                          |
-W 08/31/21      | Operating Systems and Virtual Machines            |
-W 09/08/21      | Unix, Shell Commands and Paths                    |
-W 09/15/21      | Unix Tools tools and Filters, grep, regex         |
+W 08/31/21      | Operating Systems and Virtual Machines [[slides](materials/01-OSVM.pptx)] | - Activity: [01-OSVM.docx](materials/01-OSVM.docx)<br> - Reading: [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
+W 09/08/21      | Unix Command Line Interface (CLI) and Paths       |
+W 09/15/21      | Unix Tools and Filters                            |
 W 09/22/21      | Shell Scripting                                   |
 W 09/29/21      | Basic Unix System Administration                  |
                 | **Open Source Tools and Techniques**              |
