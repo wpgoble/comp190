@@ -45,7 +45,12 @@ Each class will include a short introductory presentation to the day's topic by 
 
 Following each introduction, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material.  Typically there will be time at the end of each meeting to begin the activities.  You should expect that the Activities will require up to 3-4 hours total (Note: This is consistent with Dickinson’s standard that every hour in class is accompanied by 3 hours of work outside of class).
 
-#### Command Cheat-Sheet
+##### Quizzes
+
+After the completion of each Activity there will be a  quiz posted to Moodle.  These quizzes will be generally short (~10 questions) and will draw on the material from the Introductory Presentation and the Activity. You must obtain a 100% on each quiz. However, you can attempt each quiz as many times as necessary to do so.  These quizzes are intended to be a review and to help you self-assess what you learned well and where you need to learn a little more.  If you find yourself missing questions, review the relevant material, learn a little more and then attempt the quiz again.  Don't just guess... doing so has no value to your learning.
+
+<!--
+#### Command Cheat-Sheet????
 
 This class will be introducing a lot of new technologies, techniques and commands. The goal is not to memorize them all, but rather to learn what they do, how they work and when to use them.  Then in future situations you will have them in your toolbox when you need them. A "cheat-sheet" can be a useful technique for organizing this type of information so that you can quickly look it up or refresh your memory when you need it.  As you go through the activities you will be asked to create and keep up to date a cheat-sheet for the new things you are learning. You will turn this cheat-sheet in at the end of the semester to demonstrate a comprehensive awareness of what you have learned and that you have it as a valuable resource for future classes.
 
@@ -58,6 +63,7 @@ A competent cheat-sheet will:
   - The general form of the command indicating required and optional arguments.
   - One or more examples of its use, with explanations as necessary.
 - Be organized.  Commands should be divided into logical chunks where related commands are grouped together to make them easy to find.
+-->
 
 ### Assignment Grading
 
@@ -70,7 +76,7 @@ The COMP 190 course is graded as a Credit/No Credit course (see [Dickinson's Aca
 To receive credit for the course you must:
 - Demonstrate engagement with the assigned readings through a track record of participating class discussions.
 - Receive a "Competent" score on every Activity.
-- Submit a "Competent" Command Cheat-Sheet at the end of the semester.
+- Score 100% on all of the Quizzes.
 
 Recall that if any Activity or the Command Cheat-Sheet is marked "Not Yet Competent" it can be revised and resubmitted, multiple times if necessary to receive a "Competent" score.
 
