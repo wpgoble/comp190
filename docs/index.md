@@ -24,11 +24,11 @@ W 10/20/21      | Version Control II - Pull/Merge Requests          |
 W 10/27/21      | Version Control III - Merge Conflicts             |
 W 11/03/21      | Build Tools and Dependencies                      |
 W 11/10/21      | Containerization                                  |
-                | **FOSS/HFOSS and The FarmData2 Project**          |
+                | **The FarmData2 Project**                         |
 W 11/17/21      | HFOSS Communities / FarmData2 Install             |
 W 11/24/21      | _Thanksgiving Break_                              |
-W 12/01/21      | TBA                                               |
-W 12/08/21      | TBA                                               |
+W 12/01/21      | FarmData2 Contributions                           |
+W 12/08/21      | FarmData2 Contributions                           |
                 | **Final Exam Period**                             |
 Sat 12/18/21<br>2:00pm | TBA                                        |
 
