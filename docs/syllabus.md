@@ -41,7 +41,7 @@ To prepare for these discussions you might:
 
 Each class will include a short introductory presentation to the day's topic by the instructor.  This introduction is intended to provide a big picture view of the topic and how it fits into the larger context of the course, software development and open source.  They are not intended to provide all of the information that you need to complete the activities.  
 
-#### Activities
+#### Homework Activities
 
 Following each introduction, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material.  Typically there will be time at the end of each meeting to begin the activities.  You should expect that the Activities will require up to 3-4 hours total (Note: This is consistent with Dickinson’s standard that every hour in class is accompanied by 3 hours of work outside of class).
 
@@ -67,7 +67,7 @@ A competent cheat-sheet will:
 
 ### Assignment Grading
 
-Course assignments will be reviewed for completeness and individual questions will be marked with feedback to facilitate self-assessment of your understanding.  Overall, each assignment will be marked as “Competent” or “Not Yet Competent.”  **Any assignment marked “Not Yet Competent” must be revised and resubmitted.**  It is highly recommended that you complete this revision prior to the subsequent activity as it will often be dependent on the prior one.
+Course assignments will be reviewed for completeness and individual questions will be marked with feedback to facilitate self-assessment of your understanding.  Individual questions on the assignment will be marked with check-, check, check+ scores. Guiding comments will be added to individual questions as appropriate. Overall, each assignment will be marked as “Competent” or “Not Yet Competent.”  **Any assignment marked “Not Yet Competent” can be revised and resubmitted** multiple times if necessary.  It is highly recommended that you complete this revision prior to the subsequent activity as it will often be dependent on the prior one.
 
 ### Course Grading
 
@@ -75,10 +75,8 @@ The COMP 190 course is graded as a Credit/No Credit course (see [Dickinson's Aca
 
 To receive credit for the course you must:
 - Demonstrate engagement with the assigned readings through a track record of participating class discussions.
-- Receive a "Competent" score on every Activity.
+- Receive a "Competent" score on every Homework Activity.
 - Score 100% on all of the Quizzes.
-
-Recall that if any Activity or the Command Cheat-Sheet is marked "Not Yet Competent" it can be revised and resubmitted, multiple times if necessary to receive a "Competent" score.
 
 ### Academic Integrity
 
@@ -88,7 +86,7 @@ The specific policies for COMP190 are detailed below. If you are unsure about wh
 
 #### Collaboration
 
-Assignments in COMP 190 are individual assignments. Sharing or receiving of answers to assignments is not permitted. All work submitted must be your own work.
+Homework Activities and Quizzes in COMP 190 are individual assignments. Sharing or receiving of answers to assignments is not permitted. All work submitted must be your own work.
 
 However, you are encouraged to interact and to help each other learn.  For example:
 - You may ask and answer clarifying questions about assignments.
