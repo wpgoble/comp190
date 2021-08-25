@@ -12,7 +12,7 @@
 Date            | Class Information                                 | Homework Assigned
 ----------------|---------------------------------------------------|-------------
                 | **Introduction to Unix**                          |
-W 09/01/21      | Operating Systems and Virtual Machines [<a href="materials/01-S-OSandVM.pptx" download>Slides</a>] | - [Pre-Course Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-4EhCBPV-RFAiZ4q_nXNk8JUQzI0VDE0SDRBNURDTk9CWjBDSTIyQ0JHNS4u)<br>- Activity: <a href="materials/01-A-OSandVM.docx" download>01-A-OSandVM.docx</a><br>- Reading: [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
+W 09/01/21      | Operating Systems and Virtual Machines [<a href="materials/01-S-OSandVM.pptx" download>Slides</a>] | - [Pre-Course Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-4EhCBPV-RFAiZ4q_nXNk8JUQzI0VDE0SDRBNURDTk9CWjBDSTIyQ0JHNS4u)<br>- Activity: <a href="materials/01-A-OSandVM.docx" download>01-A-OSandVM.docx</a><br>- Syllabus Quiz<br>- Reading: [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
 W 09/08/21      | Unix Command Line Interface (CLI) and Paths       |
 W 09/15/21      | Unix Tools and Filters                            |
 W 09/22/21      | Shell Scripting                                   |
