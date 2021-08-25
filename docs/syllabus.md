@@ -45,7 +45,7 @@ Each class will include a short introductory presentation to the day's topic by 
 
 Following each introduction, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material.  Typically there will be time at the end of each meeting to begin the activities.  You should expect that the Activities will require up to 3-4 hours total (Note: This is consistent with Dickinson’s standard that every hour in class is accompanied by 3 hours of work outside of class).
 
-##### Quizzes
+#### Quizzes
 
 After the completion of each Activity there will be a  quiz posted to Moodle.  These quizzes will be generally short (~10 questions) and will draw on the material from the Introductory Presentation and the Activity. You must obtain a 100% on each quiz. However, you can attempt each quiz as many times as necessary to do so.  These quizzes are intended to be a review and to help you self-assess what you learned well and where you need to learn a little more.  If you find yourself missing questions, review the relevant material, learn a little more and then attempt the quiz again.  Don't just guess... doing so has no value to your learning.
 
