@@ -13,8 +13,8 @@ Date            | Class Information                                 | Homework A
 ----------------|---------------------------------------------------|-------------
                 | **Introduction to Unix**                          |
 W 09/01/21      | Operating Systems and Virtual Machines [<a href="materials/01-S-OSandVM.pptx" download>Slides</a>] | - [Pre-Course Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-4EhCBPV-RFAiZ4q_nXNk8JUQzI0VDE0SDRBNURDTk9CWjBDSTIyQ0JHNS4u)<br>- Activity: <a href="materials/01-A-OSandVM.docx" download>01-A-OSandVM.docx</a><br>- Syllabus Quiz (Moodle)<br>- Reading: [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)<br>- Quiz Q01 (Moodle)
-W 09/08/21      | Unix Command Line Interface (CLI) and Paths [<a href="materials/02-S-UnixAndShell.pptx" download>Slides</a>]      | - Activity: <a href="materials/02-A-UnixAndShell.docx" download>02-A-UnixAndShell.docx</a><br>- Reading: [What Heartbleed Taught the Tech World](https://slate.com/technology/2019/10/heartbleed-lessons-open-source-code.html)<br>- Quiz Q02 (Moodle)
-W 09/15/21      | Unix Tools and Filters                            |
+W 09/08/21      | Unix Command Line Interface (CLI) and Paths [<a href="materials/02-S-UnixAndShell.pptx" download>Slides</a>] | - Activity: <a href="materials/02-A-UnixAndShell.docx" download>02-A-UnixAndShell.docx</a><br>- Reading: [What Heartbleed Taught the Tech World](https://slate.com/technology/2019/10/heartbleed-lessons-open-source-code.html)<br>- Quiz Q02 (Moodle)
+W 09/15/21      | Unix Tools and Filters [<a href="materials/03-S-UnixTools.pptx" download>Slides</a>] | - Activity: <a href="materials/03-A-UnixTools.docx" download>03-A-UnixTools.docx</a><br>- Reading: [TBA]()<br>- Quiz Q03 (Moodle)
 W 09/22/21      | Shell Scripting                                   |
 W 09/29/21      | Basic Unix System Administration                  |
                 | **Open Source Tools and Techniques**              |
