@@ -20,6 +20,7 @@ W 09/29/21      | Basic Unix System Administration [<a href="materials/05-S-Syst
                 | **Open Source Tools and Techniques**              |
 W 10/06/21      | Software Licensing and FOSS [<a href="materials/06-S-LicensingFOSS.pptx" download>Slides</a>] | - Activity: <a href="materials/06-A-LicensingFOSS.docx" download>06-A-LicensingFOSS.docx</a><br>- Reading: [Facebook Knows Instagram Is Toxic for Teen Girls](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)<br>- Quiz Q06 (Moodle)
 W 10/13/21      | FOSS Community and Collaboration (VC-I)           |
+                | _Fall Pause (Monday/Tuesday)_                     |
 W 10/20/21      | Upstreaming in FOSS (VC-II)                       |
 W 10/27/21      | Upstreaming and Merge Conflicts (VC-III)          |
 W 11/03/21      | Build Tools and Dependencies                      |
