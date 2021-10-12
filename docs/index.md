@@ -19,10 +19,10 @@ W 09/22/21      | Shell Scripting [<a href="materials/04-S-ShellScripting.pptx" 
 W 09/29/21      | Basic Unix System Administration [<a href="materials/05-S-SystemAdmin.pptx" download>Slides</a>] | -Activity: <a href="materials/05-A-SystemAdmin.docx" download>05-A-SystemAdmin.docx</a><br>- Reading: [Facebook Says Its Rules Apply to All. Company Documents Reveal a Secret Elite That’s Exempt.](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)<br>- Quiz Q05 (Moodle)
                 | **Open Source Tools and Techniques**              |
 W 10/06/21      | Software Licensing and FOSS [<a href="materials/06-S-LicensingFOSS.pptx" download>Slides</a>] | - Activity: <a href="materials/06-A-LicensingFOSS.docx" download>06-A-LicensingFOSS.docx</a><br>- Reading: [Facebook Knows Instagram Is Toxic for Teen Girls](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)<br>- Quiz Q06 (Moodle)
-W 10/13/21      | FOSS Community and Collaboration (VC-I)[<a href="materials/07-S-VCI-CommCollab.pptx" download>Slides</a>] | - Activity: 07-A-VCI-CommCollab.docx<br>- Reading: TBA
+W 10/13/21      | FOSS Community and Collaboration (VC-I)[<a href="materials/07-S-VCI-CommCollab.pptx" download>Slides</a>] | - Activity: <a href="materials/07-A-VCI-CommCollab.docx" download>07-A-VCI-CommCollab.docx</a><br>- Reading: TBA
                 | _Fall Pause (Monday/Tuesday)_                     |
 W 10/20/21      | Upstreaming in FOSS (VC-II)                       |
-W 10/27/21      | Upstreaming and Merge Conflicts (VC-III)          |
+W 10/27/21      | Resolving Merge Conflicts (VC-III)                |
 W 11/03/21      | Build Tools and Dependencies                      |
 W 11/10/21      | Containerization                                  |
                 | **The FarmData2 Project**                         |
