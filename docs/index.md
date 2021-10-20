@@ -22,9 +22,9 @@ W 10/06/21      | Software Licensing and FOSS [<a href="materials/06-S-Licensing
 W 10/13/21      | FOSS Community and Collaboration (VC-I) [<a href="materials/07-S-VCI-CommCollab.pptx" download>Slides</a>] | - Activity: <a href="materials/07-A-VCI-CommCollab.docx" download>07-A-VCI-CommCollab.docx</a><br>- No Reading<br>- Quiz Q07 (Moodle)
                 | _Fall Pause (Monday/Tuesday)_                     |
 W 10/20/21      | Upstreaming in FOSS (VC-II) [<a href="materials/08-S-VCII-Upstreaming.pptx" download>Slides</a>] | - Activity: <a href="materials/08-A-VCII-Upstreaming.docx" download>08-A-VCII-Upstreaming.docx</a><br>- Reading 1: [Nick Clegg Memo](https://www.documentcloud.org/documents/21075249-facebook-memo)<br>- Reading 2:[Mark Zuckerberg's Facebook Post](https://lms.dickinson.edu/mod/resource/view.php?id=1049040)<br>- Quiz Q08 (Moodle)
-W 10/27/21      | Resolving Merge Conflicts (VC-III)                |
-W 11/03/21      | Build Tools and Dependencies                      |
-W 11/10/21      | Containerization                                  |
+W 10/27/21      | Staying Synchronized (VC-III)                     |
+W 11/03/21      | Resolving Merge Conflicts (VC-IV)                 |
+W 11/10/21      | Build Tools / Dependencies /Containerization      |
                 | **The FarmData2 Project**                         |
 W 11/17/21      | HFOSS Communities / FarmData2 Install             |
 W 11/24/21      | _Thanksgiving Break_                              |
