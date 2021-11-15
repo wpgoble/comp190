@@ -26,9 +26,9 @@ W 10/27/21      | Staying Synchronized (VC-III) [<a href="materials/09-S-VCIII-S
 W 11/03/21      | Resolving Merge Conflicts (VC-IV) [<a href="materials/10-S-VCIV-MergeConflicts.pptx" download>Slides</a>] | - Activity: <a href="materials/10-A-VCIV-MergeConflicts.docx" download>10-A-VCIV-MergeConflicts.docx</a><br>- Reading: [Who Is Making Sure the A.I. Machines Aren’t Racist?](https://www.nytimes.com/2021/03/15/technology/artificial-intelligence-google-bias.html)<br>- Quiz Q10 (Moodle)
 W 11/10/21      | Dependencies / Build Tools / Containerization [<a href="materials/11-S-Containerization.pptx" download>Slides</a>] | - Activity: <a href="materials/11-A-Containerization.docx" download>11-A-Containerization.docx</a><br>- Reading: [Apple and Facebook Are Coming for Your Face Next](https://www.nytimes.com/2021/09/16/opinion/face-computers-virtual-reality.html)<br>- Quiz Q11 (Moodle)
                 | **The FarmData2 Project**                         |
-W 11/17/21      | HFOSS Communities / FarmData2 Install             |
+W 11/17/21      | FOSS Project Structures / FarmData2 Community [<a href="materials/12-S-FarmData2.pptx" download>Slides</a>] | - Activity: <a href="materials/12-A-FarmData2.docx" download>12-A-FarmData2.docx</a><br>- Reading: TBA<br>- Quiz Q12 (Moodle)
 W 11/24/21      | _Thanksgiving Break_                              |
-W 12/01/21      | FarmData2 Issues (WiD)                            |
+W 12/01/21      | FarmData2 Developer Install                       |
 W 12/08/21      | FarmData2 Issues (WiD)                            |
                 | **Final Exam Period**                             |
 Sat 12/18/21<br>2:00pm | TBA                                        |
