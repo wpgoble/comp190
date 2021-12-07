@@ -29,7 +29,7 @@ W 11/10/21      | Dependencies / Build Tools / Containerization [<a href="materi
 W 11/17/21      | FOSS Project Structures / FarmData2 Community [<a href="materials/12-S-FarmData2.pptx" download>Slides</a>] | - Activity: <a href="materials/12-A-FarmData2.docx" download>12-A-FarmData2.docx</a><br>- Reading: [Self-driving car dilemmas reveal that moral choices are not universal](https://www.nature.com/articles/d41586-018-07135-0)<br>- Quiz Q12 (Moodle)
 W 11/24/21      | _Thanksgiving Break_                              |
 W 12/01/21      | FarmData2 Developer Install [<a href="materials/13-S-FarmData2DevInstall.pptx" download>Slides</a>] | - Activity: <a href="materials/13-A-FarmData2DevInstall.docx" download>13-A-FarmData2DevInstall.docx</a><br>- Reading: [More Software Isn't Better Software](https://www.wired.com/story/more-software-isnt-better-software/)
-W 12/08/21      | FarmData2 Issues (WiD) [<a href="materials/14-S-BugReporting.pptx" download>Slides</a>]                            |
+W 12/08/21      | FarmData2 Issues (WiD) [<a href="materials/14-S-BugReporting.pptx" download>Slides</a>] | - Activity: TBA
                 | **Final Exam Period**                             |
 Sat 12/18/21<br>2:00pm |                                            |
 
