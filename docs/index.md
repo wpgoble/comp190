@@ -31,7 +31,7 @@ W 11/24/21      | _Thanksgiving Break_                              |
 W 12/01/21      | FarmData2 Developer Install [<a href="materials/13-S-FarmData2DevInstall.pptx" download>Slides</a>] | - Activity: <a href="materials/13-A-FarmData2DevInstall.docx" download>13-A-FarmData2DevInstall.docx</a><br>- Reading: [More Software Isn't Better Software](https://www.wired.com/story/more-software-isnt-better-software/)
 W 12/08/21      | FarmData2 Issues (WiD) [<a href="materials/14-S-BugReporting.pptx" download>Slides</a>] | - [Post Course Survey](https://forms.office.com/r/a7tsqE2tBi)<br> - Activity: <a href="materials/14-A-BugReporting.docx" download>14-A-BugReporting.docx</a>
                 | **Final Exam Period**                             |
-Sat 12/18/21<br>2:00pm |                                            |
+Sat 12/18/21<br>2:00-5:00pm | - Time allocated for A14-BugReporting Revisions  |
 
 ---
 
