@@ -31,6 +31,8 @@ Students will:
 
 A short reading on contemporary social/legal/ethical issues in computing will be assigned prior to most class meetings.  The class meeting will begin with a class discussion of that reading. You are expected to do the readings in advance and come to class prepared to contribute to the discussion. Note that while everyone is expected to prepare for every discussion, it is not required that everyone contribute to every discussion. However, you are expected to contribute regularly enough to demonstrate you are preparing and engaging with the materials.  Students who are failing to demonstrate sufficient engagement or participation will be given updates and suggestions for improvement.
 
+**Laptops will be required to be closed for these discussions.**
+
 To prepare for these discussions you might:
 - Identify the main points made by the reading.
 - Think about your position on any controversial or unsettled issues raised.
@@ -47,36 +49,41 @@ Following each introduction, you will complete a collection of activities that g
 
 #### Quizzes
 
-After the completion of each Activity there will be a  quiz posted to Moodle.  These quizzes will be generally short (~10 questions) and will draw on the material from the Introductory Presentation and the Activity. You must obtain a 100% on each quiz. However, you can attempt each quiz as many times as necessary to do so.  These quizzes are intended to be a review and to help you self-assess what you learned well and where you need to learn a little more.  If you find yourself missing questions, review the relevant material, learn a little more and then attempt the quiz again.  Don't just guess... doing so has no value to your learning.
+After the completion of each Activity there will be a quiz posted to Moodle.  These quizzes will be generally short (~10 questions) and will draw on the material from the Introductory Presentation and the Activity. These quizzes are intended to be a review and to help you self-assess what you learned well and where you need to learn a little more. A quiz can be retaken as many times as you like.  However, don't just guess... doing so has no value at all in your learning. Instead, if you find yourself missing questions, review the relevant material, learn a little more and then attempt the quiz again. In doing so, you will not only learn the material, but will learn about how your learn!
 
-<!--
-#### Command Cheat-Sheet????
+### Grading
 
-This class will be introducing a lot of new technologies, techniques and commands. The goal is not to memorize them all, but rather to learn what they do, how they work and when to use them.  Then in future situations you will have them in your toolbox when you need them. A "cheat-sheet" can be a useful technique for organizing this type of information so that you can quickly look it up or refresh your memory when you need it.  As you go through the activities you will be asked to create and keep up to date a cheat-sheet for the new things you are learning. You will turn this cheat-sheet in at the end of the semester to demonstrate a comprehensive awareness of what you have learned and that you have it as a valuable resource for future classes.
+The COMP 190 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)).  The points below explain how each component of the course is scored and what is required to receive credit for the course as a whole.
 
-##### Cheat-Sheet Guidelines
+#### Participation / Attendance / Engagement (PAE)
 
-A competent cheat-sheet will:
-- Be comprehensive. It will include all of the commands introduced and used in the course.
-- Be useful.  For each command it should include:
-  - A brief explanation of the command.
-  - The general form of the command indicating required and optional arguments.
-  - One or more examples of its use, with explanations as necessary.
-- Be organized.  Commands should be divided into logical chunks where related commands are grouped together to make them easy to find.
--->
+You will receive a PAE score for each class meeting using the following rubric:
 
-### Assignment Grading
+![PAE Rubric. 3 points - Highly engaged in class and discussion; Contributing; Asking questions; Participation improved the class for all. 2 points - Engaged in class and discussion; Actively listening; Possibly making contributions or asking questions. 1 point - Present; Possibly not fully or consistently engaged. 0 points - Absent; Actively disengaged (phone/laptop/etc); Possibly distracting to others.](images/PAE-Rubric.jpg)
 
-Course assignments will be reviewed for completeness and individual questions will be marked with feedback to facilitate self-assessment of your understanding.  Individual questions on the assignment will be marked with check-, check, check+ scores. Guiding comments will be added to individual questions as appropriate. Overall, each assignment will be marked as “Competent” or “Not Yet Competent.”  **Any assignment marked “Not Yet Competent” can be revised and resubmitted** multiple times if necessary.  It is highly recommended that you complete this revision prior to the subsequent activity as it will often be dependent on the prior one.
+#### Homework Activities
 
-### Course Grading
+You will receive a score on each Homework Activity using the following rubric:
 
-The COMP 190 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)).
+![Activity Rubric. 3 points - On time; Complete; Demonstrates a strong understanding and thoughtful engagement; Complete sentences; Neat and organized. 2 points - On time, late up to 3 days, or resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of the material; May include unclear, incomplete, messy answers. 1 point - Possibly late or insufficiently complete; Fails to demonstrate acceptable level of understanding. 0 points - Not submitted or largely incomplete.](images/Activity-Rubric.jpg)
 
-To receive credit for the course you must:
-- Demonstrate engagement with the assigned readings through a track record of participating class discussions.
-- Receive a "Competent" score on every Homework Activity.
-- Score 100% on all of the Quizzes.
+A Homework Activity receiving a score of 1 or 0 may be resubmitted once within 3 days of being returned. An activity resubmitted within 3 days will be rescored and the new score will replace the original.  Resubmitted activities may receive a score of up to 2. Resubmissions after 3 days will not be accepted and the original score will remain.
+
+#### Quizzes
+
+You will receive a score on each Quiz using the following rubric:
+
+![Quiz Rubric. 3 points - Perfect quiz. 2 points - Nearly perfect quiz; Sufficient. 1 point - Unused. A score of 2 or 3 is required on all quizes. 0 points - Quiz has not been taken or is not sufficient.](images/Quiz-Rubric.jpg)
+
+Quizzes are automatically graded by Moodle and may be taken as many times as necessary to achieve a satisfactory score.  Quizzes must be up to date at Roll Call and at the time of the Final Exam.
+
+#### Receiving Credit for the Course
+
+In order to receive credit for the course you must meet the following criteria:
+
+![Class Rubric. PAE - Minimum of 26 points, with at most one 0. Homework Activities - Minimum of 28 points, with no 0's. Quizzes - Minimum of 28 points, with no 0's.](images/Class-Rubric.jpg)
+
+The instructor reserves the right, with notification to the class, to reduce (but not increase) the point totals required for credit (e.g. in the event of a canceled class or faulty quiz.)
 
 ### Academic Integrity
 
@@ -89,10 +96,13 @@ The specific policies for COMP190 are detailed below. If you are unsure about wh
 Homework Activities and Quizzes in COMP 190 are individual assignments. Sharing or receiving of answers to assignments is not permitted. All work submitted must be your own work.
 
 However, you are encouraged to interact and to help each other learn.  For example:
-- You may ask and answer clarifying questions about assignments.
+- You may ask and answer clarifying questions about assignments from your peers.
 - You can ask for suggestions of other resources to use or how to proceed with an assignment.  
-- You can ask questions about any of the course content.
+- You can help each other complete individual questions in the activities.
+- You can visit evening TA lab hours in Tome 118 and consult the TA.
 - Etc.
+
+**What you cannot do is copy answers from someone else. You must complete all question or exercise yourself on your own machine.** It is the experience of trying and working through these exercises that builds your experience.  And that experience is what you will need to succeed in future classes, internships and jobs.
 
 All of these types of questions can be asked of the instructor or of your classmates, either in person or on the course Teams channel. You are encouraged to ask and respond on the Teams channel. If you ask in person, please also try to post what you learn to the channel. This will ensure that others with the same questions will have access to the same helpful information that you receive.
 
@@ -106,11 +116,15 @@ That said, for some problems you will be expected to use web searches and outsid
 
 Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where permission is given for audio/video/photographic records to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of sample code, homework solution sets or provided lab code is prohibited. Please note that all outside materials used in the course (readings/tutorials/assignments/projects/etc) are also be governed by their own licensing agreements.
 
-### Accommodations for Disabilities
+### Accommodations Students with Disabilities
 
-Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to www.dickinson.edu/ADS, email access@dickinson.edu, call (717) 245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
+Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to www.dickinson.edu/ADS, email access@dickinson.edu, call (717)245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
 
-If you’ve already been granted accommodations at Dickinson, please follow the guidance at www.dickinson.edu/AccessPlan for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If test proctoring will be needed from ADS, remember that we will need to complete your Access Plan in time to give them at least one week’s advance notice.
+If you’ve already been granted accommodations at Dickinson, please follow the guidance at www.dickinson.edu/AccessPlan for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If you will be using any test-taking accommodations in this class, be sure to enter all test dates into your Access Plan in advance of our meeting.
+
+### Accessibility
+
+This class meets and my office are located on the second floor of Tome Hall, which has an elevator, located to the left of the stairs inside the main entrance. If you require the use of an elevator to access our class or my office, please let me know. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
 
 ### Life Happens:
 
