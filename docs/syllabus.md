@@ -35,9 +35,9 @@ A short reading on contemporary social/legal/ethical issues in computing will be
 
 To prepare for these discussions you might:
 - Identify the main points made by the reading.
-- Think about your position on any controversial or unsettled issues raised.
+- Think about your position on any controversial or unsettled issues that are raised.
 - Note things that you found interesting that you would like to hear your classmates opinions on.
-- Prepare questions on things that were unclear to you.
+- Prepare questions to ask on things that were unclear to you.
 
 #### Introductory Presentations
 
@@ -45,7 +45,7 @@ Each class will include a short introductory presentation to the day's topic by 
 
 #### Homework Activities
 
-Following each introduction, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material.  Typically there will be time at the end of each meeting to begin the activities.  You should expect that the Activities will require up to 3-4 hours total (Note: This is consistent with Dickinson’s standard that every hour in class is accompanied by 3 hours of work outside of class).
+Following each introduction, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material.  Typically there will be time at the end of each meeting to begin the activities.  You should expect that the Activities will require up to 3-4 hours outside of class (Note: This is consistent with Dickinson’s standard that every hour in class is accompanied by 3 hours of work outside of class).
 
 #### Quizzes
 
@@ -65,17 +65,17 @@ You will receive a PAE score for each class meeting using the following rubric:
 
 You will receive a score on each Homework Activity using the following rubric:
 
-![Activity Rubric. 3 points - On time; Complete; Demonstrates a strong understanding and thoughtful engagement; Complete sentences; Neat and organized. 2 points - On time, late up to 3 days, or resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of the material; May include unclear, incomplete, messy answers. 1 point - Possibly late or insufficiently complete; Fails to demonstrate acceptable level of understanding. 0 points - Not submitted or largely incomplete.](images/Activity-Rubric.jpg)
+![Activity Rubric. 3 points - On time; Complete; Demonstrates a strong understanding and thoughtful engagement; Complete sentences; Neat and organized. 2 points - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of the material; Possibly unclear, incomplete, and/or messy/disorganized answers. 1 point - Insufficiently complete; Fails to demonstrate acceptable level of understanding. 0 points - Not submitted or largely incomplete.](images/Activity-Rubric.jpg)
 
-A Homework Activity receiving a score of 1 or 0 may be resubmitted once within 3 days of being returned. An activity resubmitted within 3 days will be rescored and the new score will replace the original.  Resubmitted activities may receive a score of up to 2. Resubmissions after 3 days will not be accepted and the original score will remain.
+A Homework Activity receiving a score of 1 or 0 may be (re)submitted once within 1 week of being returned to the class. An activity (re)submitted within 1 week will be (re)scored and the new score will replace the original.  Late or resubmitted activities will receive a maximum score of 2. (Re)Submissions more 1 week after an assignment is returned to the class will not be accepted and the original score will remain.  Extensions beyond 1 week will only be considered in extenuating circumstances with appropriate documentation.  Please see the "Life Happens" section at the bottom of this document.
 
 #### Quizzes
 
 You will receive a score on each Quiz using the following rubric:
 
-![Quiz Rubric. 3 points - Perfect quiz. 2 points - Nearly perfect quiz; Sufficient. 1 point - Unused. A score of 2 or 3 is required on all quizes. 0 points - Quiz has not been taken or is not sufficient.](images/Quiz-Rubric.jpg)
+![Quiz Rubric. 3 points - Perfect score; 100%. 2 points - Sufficient score; >95%. 1 point - Unused. All quizzes must be at least sufficient. 0 points - Quiz has not been taken or is not sufficient.](images/Quiz-Rubric.jpg)
 
-Quizzes are automatically graded by Moodle and may be taken as many times as necessary to achieve a satisfactory score.  Quizzes must be up to date at Roll Call and at the time of the Final Exam.
+Quizzes are automatically graded by Moodle and may be taken as many times as necessary to achieve a perfect or sufficient score.  Quizzes must be up to date at Roll Call (i.e. fall pause or spring break) and at the time of the Final Exam.
 
 #### Receiving Credit for the Course
 
@@ -93,12 +93,12 @@ The specific policies for COMP190 are detailed below. If you are unsure about wh
 
 #### Collaboration
 
-Homework Activities and Quizzes in COMP 190 are individual assignments. Sharing or receiving of answers to assignments is not permitted. All work submitted must be your own work.
+Homework Activities and Quizzes in COMP 190 are individual assignments. All work submitted must be your own work. Sharing or receiving of answers to assignments is not permitted.
 
 However, you are encouraged to interact and to help each other learn.  For example:
 - You may ask and answer clarifying questions about assignments from your peers.
 - You can ask for suggestions of other resources to use or how to proceed with an assignment.  
-- You can help each other complete individual questions in the activities.
+- You can help each other complete individual questions in the activities, as long as you each do the work individually.
 - You can visit evening TA lab hours in Tome 118 and consult the TA.
 - Etc.
 
@@ -128,4 +128,4 @@ This class meets and my office are located on the second floor of Tome Hall, whi
 
 ### Life Happens:
 
-Sometimes stuff just happens, even more so in the challenging situations in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (my) own. Dickinson is a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or your class Dean. They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. If I am experiencing such events, I will communicate them to you as well and we will adapt.
+Sometimes stuff just happens, even more so in the challenging situations in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (my) own. Dickinson is a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or your class Dean. They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. If you are going to miss a due date for this course, please contact the instructor in advance. If I am experiencing such events, I will communicate them to you as well and we will adapt.
