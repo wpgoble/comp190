@@ -10,12 +10,12 @@
 Date            | Class Information                                 | Homework Assigned
 ----------------|---------------------------------------------------|-------------
                 | **Introduction to Unix**                          |
-W 08/31/22      | Setup: Docker and Unix Install                    |
+W 08/31/22      | Course Intro and Tech Setup: Docker Install       |
 W 09/07/22      | Unix Command Line Interface (CLI)                 |
 W 09/14/22      | Unix Tools, Filters and Scripts                   |
 W 09/21/22      | Basic Unix System Administration                  |
 W 09/28/22      | Docker: Dockerfiles and Images                    |
-                | **Open Source Software Project Structures**       |
+                | **Open Source Projects and Structures**           |
 W 10/05/22      | Intellectual Property and Licensing               |
 W 10/12/22      | Project Structures                                |
 W 10/19/22      | Issue Trackers and Tickets                        |
