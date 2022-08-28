@@ -61,6 +61,10 @@ You will receive a PAE score for each class meeting using the following rubric:
 
 ![PAE Rubric. 3 points - Highly engaged in class and discussion; Contributing; Asking questions; Participation improved the class for all. 2 points - Engaged in class and discussion; Actively listening; Possibly making contributions or asking questions. 1 point - Present; Possibly not fully or consistently engaged. 0 points - Absent; Actively disengaged (phone/laptop/etc); Possibly distracting to others.](images/PAE-Rubric.jpg)
 
+If you know you will be unable to attend a class due to a [College recognized religious holiday](https://www.dickinson.edu/download/downloads/id/13888/cssj_interfaith_calendar.pdf) or other extenuating circumstances please contact me in advance. If if your request is in line with [College policy](https://www.dickinson.edu/download/downloads/id/12644/religious_accommodations_policy.pdf), reasonable and timely we will make accommodations and provide an alternative means of earning a PAE score for the missed class.  In the case of illness, please contact me as soon as possible (still preferably before class) and again, if reasonable and timely, we will make accommodations and provide an alternative means of earning a PAE score for the missed class.
+
+The College has approved the following attendance policy for Fall 2022: Students who will be unable to attend on-campus classes for any reason, should contact the CARE Team (careteam@dickinson.edu or 717-245-1676).  If health related, please note that students will need to provide documentation from a healthcare provider indicating the length of the time they will be unable to attend classes in person.  If that timeframe exceeds two weeks, the student may be required to take a leave of absence for the remainder of the semester.  Staff from the CARE Team will be in touch with the students’ professors to confirm if it is possible to complete class/work off campus.
+
 #### Homework Activities
 
 You will receive a score on each Homework Activity using the following rubric:
