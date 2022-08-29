@@ -67,6 +67,8 @@ The College has approved the following attendance policy for Fall 2022: Students
 
 #### Homework Activities
 
+Homework activities must be submitted to Moodle by 12:00pm (noon) on the due date.
+
 You will receive a score on each Homework Activity using the following rubric:
 
 ![Activity Rubric. 3 points - On time; Complete; Demonstrates a strong understanding and thoughtful engagement; Complete sentences; Neat and organized. 2 points - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of the material; Possibly unclear, incomplete, and/or messy/disorganized answers. 1 point - Insufficiently complete; Fails to demonstrate acceptable level of understanding. 0 points - Not submitted or largely incomplete.](images/Activity-Rubric.jpg)
