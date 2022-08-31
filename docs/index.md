@@ -9,11 +9,11 @@
 
 Date            | Class Information                                                                            | Homework Assigned
 ----------------|----------------------------------------------------------------------------------------------|-------------
-                | **Introduction to Unix**                                                                     |
-W 08/31/22      | Course Intro - OS and Linux [[Slides](materials/01-S-OSandLinux.pptx)]                       | [HW01 - OS and Linux](materials/01-A-OSandLinux.docx)
-W 09/07/22      | Unix Command Line Interface (CLI)                 |
-W 09/14/22      | Unix Tools, Filters and Scripts                   |
-W 09/21/22      | Basic Unix System Administration                  |
+                | **Introduction to Linux**                                                                     |
+W 08/31/22      | Operating Syststems, Docker and Linux [[Slides](materials/01-S-OSandLinux.pptx)]             | [HW01 - OS and Linux](materials/01-A-OSandLinux.docx)
+W 09/07/22      | Linux Command Line Interface (CLI)                |
+W 09/14/22      | Linux Tools, Filters and Scripts                  |
+W 09/21/22      | Basic Linux System Administration                 |
 W 09/28/22      | Docker: Dockerfiles and Images                    |
                 | **Open Source Projects and Structures**           |
 W 10/05/22      | Intellectual Property and Licensing               |
