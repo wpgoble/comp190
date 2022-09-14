@@ -12,7 +12,7 @@ Date            | Class Information                                             
                 | **Introduction to Linux**                                                                    |
 W 08/31/22      | Operating Systems, Docker and Linux [[Slides](materials/01-S-OSandLinux.pptx)]               | [HW01 - OS and Linux](materials/01-A-OSandLinux.docx)<br>Read: [What is open source?](https://opensource.com/resources/what-open-source)
 W 09/07/22      | Linux Command Line Interface (CLI)  [[Slides](materials/02-S-LinuxCLI.pptx)]                 | [HW02 - The Linux CLI](materials/02-A-LinuxCLI.docx)<br>Read: [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
-W 09/14/22      | Linux Pipes, Permissions and Scripts              | <!--https://fortune.com/2022/01/18/tech-careers-diversity-inclusion-engineering-product-teams/-->
+W 09/14/22      | Linux Filters, Scripts and Pipes [[Slides](materials/03-S-FiltersScriptsPipes.pptx)]         | [HW03 - Linux Filters, Scripts and Pipes](materials/03-A-FiltersScriptsPipes.docx)<br>Read: [We Teach A.I. Systems Everything, Including Our Biases](https://www.nytimes.com/2019/11/11/technology/artificial-intelligence-bias.html)
 W 09/21/22      | Basic Linux System Administration                 |
 W 09/28/22      | Docker: Dockerfiles and Images                    |
                 | **Open Source Projects and Structures**           |
