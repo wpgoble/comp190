@@ -13,7 +13,7 @@ Date            | Class Information                                             
 W 08/31/22      | Operating Systems, Docker and Linux [[Slides](materials/01-S-OSandLinux.pptx)]               | [HW01 - OS and Linux](materials/01-A-OSandLinux.docx)<br>Read: [What is open source?](https://opensource.com/resources/what-open-source)
 W 09/07/22      | Linux Command Line Interface (CLI)  [[Slides](materials/02-S-LinuxCLI.pptx)]                 | [HW02 - The Linux CLI](materials/02-A-LinuxCLI.docx)<br>Read: [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
 W 09/14/22      | Linux Filters, Scripts and Pipes [[Slides](materials/03-S-FiltersScriptsPipes.pptx)]         | [HW03 - Linux Filters, Scripts and Pipes](materials/03-A-FiltersScriptsPipes.docx)<br>Read: [We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1131960)
-W 09/21/22      | Basic Linux System Administration                 |
+W 09/21/22      | Installing Software [[Slides](materials/04-S-InstallingSoftware.pptx)]                       | [HW04 - Installing Software](materials/04-A-InstallingSoftware.docx)<br>Read: [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1133113)
 W 09/28/22      | Docker: Dockerfiles and Images                    |
                 | **Open Source Projects and Structures**           |
 W 10/05/22      | Intellectual Property and Licensing               |
