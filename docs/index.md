@@ -16,7 +16,7 @@ W 09/14/22      | Linux Filters, Scripts and Pipes [[Slides](materials/03-S-Filt
 W 09/21/22      | Installing Software [[Slides](materials/04-S-InstallingSoftware.pptx)]                       | [HW04 - Installing Software](materials/04-A-InstallingSoftware.docx)<br>Read: [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1133113)
 W 09/28/22      | Docker: Dockerfiles and Images [[Slides](materials/05-S-Docker.pptx)]                        | [HW05 - Dockerfiles and Images](materials/05-A-Docker.docx)<br>Read: [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
                 | **Open Source Projects and Structures**                                                      |
-W 10/05/22      | Intellectual Property and Software Licensing [[Slides](materials/06-S-LicensingFOSS.pptx)]   | [HW06 - Intellectual Property and Software Licensing](materials/06-A-LicensingFOSS.docx)<br>Read: []()
+W 10/05/22      | Intellectual Property and Software Licensing [[Slides](materials/06-S-LicensingFOSS.pptx)]   | [HW06 - Intellectual Property and Software Licensing](materials/06-A-LicensingFOSS.docx)<br>Read: [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
 W 10/12/22      | Project Structures                                |
 &nbsp;          |                                                   |
 &nbsp;          | **Fall Pause**                                    |
