@@ -21,17 +21,17 @@ W 10/12/22      | FOSS Project Structures [[Slides](materials/07-S-ProjectStruct
 &nbsp;          |                                                   |
 &nbsp;          | **Fall Pause**                                    |
 &nbsp;          |                                                   |   
-W 10/19/22      | Issue Trackers and Tickets                        |
+W 10/19/22      | No Class Meeting                                  |
+W 10/26/22      | Issue Trackers and Tickets                        |
                 | **Open Source Tools and Collaboration**           |
-W 10/26/22      | Communities and Collaboration                     |
-W 11/02/22      | Upstreaming Contributions                         |
-W 11/09/22      | Staying Synchronized                              |
-W 11/16/22      | Resolving Merge Conflicts                         |
+W 11/02/22      | Communities and Collaboration                     |
+W 11/09/22      | Upstreaming Contributions                         |
+W 11/16/22      | Staying Synchronized                              |
 &nbsp;          |                                                   |
 W 11/23/22      | **Thanksgiving Break**                            |
 &nbsp;          |                                                   |
+W 11/30/22      | Resolving Merge Conflicts                         |
                 | **Navigating Code and Debugging**                 |
-W 11/30/22      | Dependency Management and Large Code Bases        |
 W 12/07/22      | Debugging Tools and Techniques                    |
 &nbsp;          |                                                   |
 Sat 12/17/22    | **2:00pm Final Exam Slot**<br> No Exam - All assignments and quizzes must be complete.
