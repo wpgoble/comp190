@@ -22,7 +22,7 @@ W 10/12/22      | C07 - FOSS Project Structures [[Slides](materials/07-S-Project
 &nbsp;          | **Fall Pause**                                                                                     |
 &nbsp;          |                                                                                                    |    
 W 10/19/22      | No Class Meeting                                                                                   |
-W 10/26/22      | C08 - FarmData2 & Issue Trackers (WiD) [[Slides](materials/08-S-IssueTracker.pptx)]                | [HW08- Intellectual Property and Software Licensing](materials/08-A-IssueTracker.docx)<br>Read: [What is Blockchain?](https://lms.dickinson.edu/mod/resource/view.php?id=1139780)<br>Watch: [How Does a Blockchain Work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+W 10/26/22      | C08 - FarmData2 & Issue Trackers (WiD) [[Slides](materials/08-S-IssueTracker.pptx)]                | [HW08- FarmData2 & Issue Trackers](materials/08-A-IssueTracker.docx)<br>Read: [What is Blockchain?](https://lms.dickinson.edu/mod/resource/view.php?id=1139780)<br>Watch: [How Does a Blockchain Work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
                 | **Open Source Tools and Collaboration**                 |
 W 11/02/22      | C09 - Communities and Collaboration                     |
 W 11/09/22      | C10 - Upstreaming Contributions                         |
