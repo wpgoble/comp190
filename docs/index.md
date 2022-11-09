@@ -25,7 +25,7 @@ W 10/19/22      | No Class Meeting                                              
 W 10/26/22      | C08 - FarmData2 & Issue Trackers (WiD) [[Slides](materials/08-S-IssueTracker.pptx)]                | [HW08 - FarmData2 & Issue Trackers](materials/08-A-IssueTracker.docx)<br>Read: [What is Blockchain?](https://lms.dickinson.edu/mod/resource/view.php?id=1139780)<br>Watch: [How Does a Blockchain Work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
                 | **Open Source Tools and Collaboration**                                                            |
 W 11/02/22      | C09 - Communities and Collaboration [[Slides](materials/09-S-CommunityAndCollaboration.pptx)]      | [HW09 - Communities and Collaboration](materials/09-A-CommunityAndCollaboration.docx)<br>Read: [Blockchain And Sustainability](https://lms.dickinson.edu/mod/resource/view.php?id=1141552)
-W 11/09/22      | C10 - Upstreaming Contributions                         |
+W 11/09/22      | C10 - Upstreaming Contributions [[Slides](materials/10-S-WorkingLocallyAndUpstreaming.pptx)]       | [HW10 - Upstreaming Contributions](materials/10-A-WorkingLocallyAndUpstreaming.docx)<br>Read: [Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1142317)
 W 11/16/22      | C11 - Staying Synchronized                              |
 &nbsp;          |                                                         |
 W 11/23/22      | **Thanksgiving Break**                                  |
