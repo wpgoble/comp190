@@ -27,14 +27,14 @@ W 10/26/22      | C08 - FarmData2 & Issue Trackers (WiD) [[Slides](materials/08-
 W 11/02/22      | C09 - Communities and Collaboration [[Slides](materials/09-S-CommunityAndCollaboration.pptx)]      | [HW09 - Communities and Collaboration](materials/09-A-CommunityAndCollaboration.docx)<br>Read: [Blockchain And Sustainability](https://lms.dickinson.edu/mod/resource/view.php?id=1141552)
 W 11/09/22      | C10 - Upstreaming Contributions [[Slides](materials/10-S-WorkingLocallyAndUpstreaming.pptx)]       | [HW10 - Upstreaming Contributions](materials/10-A-WorkingLocallyAndUpstreaming.docx)<br>Read: [Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1142317)
 W 11/16/22      | C11 - Staying Synchronized [[Slides](materials/11-S-StayingSynchronized.pptx)]                     | [HW11 - Staying Synchronized](materials/11-A-StayingSynchronized.docx)<br>Read: [How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1142320)
-&nbsp;          |                                                         |
-W 11/23/22      | **Thanksgiving Break**                                  |
-&nbsp;          |                                                         |
-W 11/30/22      | C12 - Resolving Merge Conflicts                         |
-                | **Navigating Code and Debugging**                       |
+&nbsp;          |                                                                                                    |
+W 11/23/22      | **Thanksgiving Break**                                                                             |
+&nbsp;          |                                                                                                    |
+W 11/30/22      | C12 - Resolving Merge Conflicts [Slides](materials/12-S-MergeConflicts.pptx)]                      | [HW12 - Merge Conflicts](materials/12-A-MergeConflicts.docx)<br>Read: No reading assigned.
+                | **Navigating Code and Debugging**                                                                  |
 W 12/07/22      | C13 - Debugging Tools and Techniques                    |
-&nbsp;          |                                                         |
-Sat 12/17/22    | **2:00pm Final Exam Slot**<br> No Exam - All assignments and quizzes must be complete.
+&nbsp;          |                                                                                                    |
+Sat 12/17/22    | **2:00pm Final Exam Slot**<br> No Exam - All assignments and quizzes must be complete.             |
 
 ---
 
