@@ -30,9 +30,9 @@ W 11/16/22      | C11 - Staying Synchronized [[Slides](materials/11-S-StayingSyn
 &nbsp;          |                                                                                                    |
 W 11/23/22      | **Thanksgiving Break**                                                                             |
 &nbsp;          |                                                                                                    |
-W 11/30/22      | C12 - Resolving Merge Conflicts [[Slides](materials/12-S-MergeConflicts.pptx)]                      | [HW12 - Merge Conflicts](materials/12-A-MergeConflicts.docx)<br>Read: No reading assigned.
-                | **Navigating Code and Debugging**                                                                  |
-W 12/07/22      | C13 - Debugging Tools and Techniques                    |
+W 11/30/22      | C12 - Resolving Merge Conflicts [[Slides](materials/12-S-MergeConflicts.pptx)]                     | [HW12 - Merge Conflicts](materials/12-A-MergeConflicts.docx)<br>Read: No reading assigned.
+                | **Navigating Code**                                                                                |
+W 12/07/22      | C13 - Navigating Code [[Slides](materials/13-S-NavigatingCode.pptx)]                               | [HW13 - Navigating Code](materials/13-A-NavigatingCode.docx)
 &nbsp;          |                                                                                                    |
 Sat 12/17/22    | **2:00pm Final Exam Slot**<br> No Exam - All assignments and quizzes must be complete.             |
 
