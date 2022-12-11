@@ -87,7 +87,7 @@ Quizzes are automatically graded by Moodle and may be taken as many times as nec
 
 In order to receive credit for the course you must meet the following criteria:
 
-![Class Rubric. PAE - Minimum of 26 points, with at most one 0. Homework Activities - Minimum of 28 points, with no 0's. Quizzes - Minimum of 28 points, with no 0's.](images/Class-Rubric.jpg)
+![Class Rubric. PAE - Minimum of 26 points, with at most one 0. Homework Activities - Minimum of 26 points, with no 0's. Quizzes - Minimum of 26 points, with no 0's.](images/Class-Rubric.jpg)
 
 The instructor reserves the right, with notification to the class, to reduce (but not increase) the point totals required for credit (e.g. in the event of a canceled class or faulty quiz.)
 
