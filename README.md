@@ -6,7 +6,7 @@ Prerequisite: 132, may be taken concurrently. One-half credit. Graded CR/NC. 75 
 
 The course website can be found at: https://dickinson-comp190.github.io/website/
 
-256 is part of the full [Dickinson College Computer Science Curriculum](https://www.dickinson.edu/homepage/402/computer_science_curriculum).
+190 is part of the full [Dickinson College Computer Science Curriculum](https://www.dickinson.edu/homepage/402/computer_science_curriculum).
 
 ---
 
