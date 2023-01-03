@@ -6,7 +6,7 @@ An introduction to the Unix command line environment, shell scripting, system ad
 
 ### Prerequisite Knowledge:
 
-This course assumes at least a semester of prior programming experience in a high-level language. The nominal prerequisite is Dickinson COMP130 - Introduction to computing and at least concurrent enrollment in Dickinson COMP 132 - Principles of Object-Oriented Design.
+This course assumes at least a semester of prior programming experience in a high-level language. The nominal prerequisite is Dickinson COMP 130 - Introduction to computing and at least concurrent enrollment in Dickinson COMP 132 - Principles of Object-Oriented Design.
 
 ### Course Schedule
 
@@ -72,10 +72,6 @@ You will receive a PAE score for each class meeting using the following rubric:
 If you know you will be unable to attend a class due to a [College recognized religious holiday](https://www.dickinson.edu/download/downloads/id/13888/cssj_interfaith_calendar.pdf) or other extenuating circumstances please contact your instructor in advance. If if your request is in line with [College policy](https://www.dickinson.edu/download/downloads/id/12644/religious_accommodations_policy.pdf), reasonable and timely we will make accommodations and provide an alternative means of earning a PAE score for the missed class.  In the case of illness, please contact me as soon as possible (still preferably before class) and again, if reasonable and timely, we will make accommodations and provide an alternative means of earning a PAE score for the missed class.
 
 If you contact the instructor regarding an absense and the instructor judges that the reason for the absence is valid, you may earn a PAE score of 2 for the missed day by submitting (via Teams or e-mail) a 250-400 word summary of your thoughts on the reading(s) that were assigned for the class discussion that was missed.  This summary must be submitted within 1 week of the missed class period, unless otherwise arranged with the instructor.
-
-<!--
-The College has approved the following attendance policy for Fall 2022: Students who will be unable to attend on-campus classes for any reason, should contact the CARE Team (careteam@dickinson.edu or 717-245-1676).  If health related, please note that students will need to provide documentation from a healthcare provider indicating the length of the time they will be unable to attend classes in person.  If that timeframe exceeds two weeks, the student may be required to take a leave of absence for the remainder of the semester.  Staff from the CARE Team will be in touch with the students’ professors to confirm if it is possible to complete class/work off campus.
--->
 
 #### Homework Activities
 
