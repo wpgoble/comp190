@@ -12,7 +12,7 @@
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
                 | **Introduction to Linux**                                                      |                      |
-W 01/25/23      | C01 - Operating Systems, Docker and Linux [ [Slides][s01]] ]                   | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
+W 01/25/23      | C01 - Operating Systems, Docker and Linux [ [Slides][s01] ]                    | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
 W 02/01/23      | C02 - Linux Command Line Interface (CLI) <!-- [ [Slides][s02] ] -->            | <!-- [HW02][hw02]--> | <!--[Everything You Should Know About Proprietary Software](https://www.brainspire.com/blog/what-you-should-know-about-proprietary-software-brainspire) -->
 W 02/08/23      | C03 - Linux Filters, Scripts and Pipes <!-- [ [Slides][s03] ] -->              | <!-- [HW03][hw03]--> | <!--[The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android) -->
 W 02/15/23      | C04 - Installing Software <!-- [ [ Slides][s04] ] -->                          | <!-- [HW04][hw04]--> | <!--[The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/) -->
