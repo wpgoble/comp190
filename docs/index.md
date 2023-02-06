@@ -14,7 +14,7 @@ Date            | Class Information                                             
                 | **Introduction to Linux**                                                      |                      |
 W 01/25/23      | C01 - Operating Systems, Docker and Linux [ [Slides][s01] ]                    | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
 W 02/01/23      | C02 - Linux Command Line Interface (CLI)  [ [Slides][s02] ]                    | [HW02][hw02]         | [Everything You Should Know About Proprietary Software](https://www.brainspire.com/blog/what-you-should-know-about-proprietary-software-brainspire)
-W 02/08/23      | C03 - Linux Filters, Scripts and Pipes <!-- [ [Slides][s03] ] -->              | <!-- [HW03][hw03]--> | <!--[The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android) -->
+W 02/08/23      | C03 - Linux Filters, Scripts and Pipes    [ [Slides][s03] ]                    | [HW03][hw03]         | [The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android)
 W 02/15/23      | C04 - Installing Software <!-- [ [ Slides][s04] ] -->                          | <!-- [HW04][hw04]--> | <!--[The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/) -->
 W 02/22/23      | C05 - Docker: Dockerfiles and Images <!-- [ [Slides][s05] ] -->                | <!-- [HW05][hw05]--> | <!--[We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1152821) -->
                 | **Open Source Projects and Structures**                                        |                      |
@@ -38,9 +38,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [hw01]: materials/01-A-OSandLinux.docx
 [s02]: materials/02-S-LinuxCLI.pptx
 [hw02]: materials/02-A-LinuxCLI.docx
-<!--
 [s03]: materials/03-S-FiltersScriptsPipes.pptx
 [hw03]: materials/03-A-FiltersScriptsPipes.docx
+
+<!--
 [s04]: materials/04-S-InstallingSoftware.pptx
 [hw04]: materials/04-A-InstallingSoftware.docx
 [s05]: materials/05-S-Docker.pptx
