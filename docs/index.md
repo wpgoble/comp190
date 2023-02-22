@@ -42,13 +42,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [hw03]: materials/03-A-FiltersScriptsPipes.docx
 [s04]: materials/04-S-InstallingSoftware.pptx
 [hw04]: materials/04-A-InstallingSoftware.docx
-
-<!--
-[s04]: materials/04-S-InstallingSoftware.pptx
-[hw04]: materials/04-A-InstallingSoftware.docx
 [s05]: materials/05-S-Docker.pptx
 [hw05]: materials/05-A-Docker.docx
 
+<!--
 [s06]: materials/06-S-LicensingFOSS.pptx
 [hw06]: materials/06-A-LicensingFOSS.docx
 [s07]: materials/07-S-ProjectStructures.pptx
