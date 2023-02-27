@@ -18,7 +18,7 @@ W 02/08/23      | C03 - Linux Filters, Scripts and Pipes                  [ [Sli
 W 02/15/23      | C04 - Installing Software                               [ [Slides][s04] ]      | [HW04][hw04]         | [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
 W 02/22/23      | C05 - Docker: Dockerfiles and Images                    [ [Slides][s05] ]      | [HW05][hw05]         | [We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1152821)
                 | **Open Source Projects and Structures**                                        |                      |
-W 03/01/23      | C06 - Intellectual Property and Software Licensing <!-- [ [Slides][s06] ] -->  | <!-- [HW06][hw06]--> | <!--[Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822) -->
+W 03/01/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822)
 W 03/08/23      | C07 - FOSS Project Structures <!-- [ [Slides][s07] ] -->                       | <!-- [HW07][hw07]--> | <!--[Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives) -->
                 | *Spring Break*                                                                 |                      |
 W 03/22/23      | C08 - FarmData2 & Issue Trackers (WiD) <!-- [ [Slides][s08] ] -->              | <!-- [HW08][hw08]--> | <!--[Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/) -->
@@ -44,10 +44,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [hw04]: materials/04-A-InstallingSoftware.docx
 [s05]: materials/05-S-Docker.pptx
 [hw05]: materials/05-A-Docker.docx
-
-<!--
 [s06]: materials/06-S-LicensingFOSS.pptx
 [hw06]: materials/06-A-LicensingFOSS.docx
+
+<!--
 [s07]: materials/07-S-ProjectStructures.pptx
 [hw07]: materials/07-A-ProjectStructures.docx
 [s08]: materials/08-S-IssueTracker.pptx
