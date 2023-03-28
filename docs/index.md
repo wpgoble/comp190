@@ -48,11 +48,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [hw06]: materials/06-A-LicensingFOSS.docx
 [s07]: materials/07-S-ProjectStructures.pptx
 [hw07]: materials/07-A-ProjectStructures.docx
-
-<!--
 [s08]: materials/08-S-IssueTracker.pptx
 [hw08]: materials/08-A-IssueTracker.docx
 
+<!--
 [s09]: materials/09-S-CommunityAndCollaboration.pptx
 [hw09]: materials/09-A-CommunityAndCollaboration.docx
 [s10]: materials/10-S-WorkingLocallyAndUpstreaming.pptx
