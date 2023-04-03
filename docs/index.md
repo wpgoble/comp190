@@ -24,10 +24,10 @@ W 03/08/23      | C07 - FOSS Project Structures                           [ [Sli
 W 03/22/23      | No class meeting.                                                              |                      |
 W 03/29/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
                 | **Open Source Tools and Collaboration**                                        |                      |
-W 04/05/23      | C09 - Communities and Collaboration <!-- [ [Slides][s09] ] -->                 | <!-- [HW09][hw09]--> | <!--[Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/) -->
-W 04/12/23      | C10 - Upstreaming Contributions <!-- [ [Slides][s10] ] -->                     | <!-- [HW10][hw10]--> | <!--[Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives) -->
-W 04/19/23      | C11 - Staying Synchronized <!-- [ [Slides][s11] ] -->                          | <!-- [HW11][hw11]--> | <!-- ChatGPT and disinformation? -->
-W 04/26/23      | C12 - Resolving Merge Conflicts <!-- [ [Slides][s12] ] -->                     | <!-- [HW12][hw12]--> | <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
+W 04/05/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
+W 04/12/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | <!-- [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives) -->
+W 04/19/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | <!-- ChatGPT and disinformation? -->
+W 04/26/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
                 | **Navigating Code**                                                            |                      |
 W 05/03/23      | C13 - Navigating Code <!-- [ [Slides][s13] ] -->                               | <!-- [HW13][hw13]--> | <!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
                 |                                                                                |                      |
@@ -51,7 +51,6 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [s08]: materials/08-S-IssueTracker.pptx
 [hw08]: materials/08-A-IssueTracker.docx
 
-<!--
 [s09]: materials/09-S-CommunityAndCollaboration.pptx
 [hw09]: materials/09-A-CommunityAndCollaboration.docx
 [s10]: materials/10-S-WorkingLocallyAndUpstreaming.pptx
@@ -61,6 +60,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [s12]: materials/12-S-MergeConflicts.pptx
 [hw12]: materials/12-A-MergeConflicts.docx
 
+<!--
 [s13]: materials/13-S-NavigatingCode.pptx
 [hw13]: materials/13-A-NavigatingCode.docx
 -->
