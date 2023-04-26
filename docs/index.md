@@ -27,9 +27,9 @@ W 03/29/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Sli
 W 04/05/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
 W 04/12/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
 W 04/19/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | [Disinformation Researchers Raise Alarms about A.I. Chatbots](https://lms.dickinson.edu/mod/resource/view.php?id=1182164)
-W 04/26/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
+W 04/26/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | No Reading
                 | **Navigating Code**                                                            |                      |
-W 05/03/23      | C13 - Navigating Code <!-- [ [Slides][s13] ] -->                               | <!-- [HW13][hw13]--> | <!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
+W 05/03/23      | C13 - Navigating Code <!-- [ [Slides][s13] ] -->                               | <!-- [HW13][hw13]--> | 
                 |                                                                                |                      |
 Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
 
@@ -63,6 +63,9 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 <!--
 [s13]: materials/13-S-NavigatingCode.pptx
 [hw13]: materials/13-A-NavigatingCode.docx
+
+<!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
+<!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
 -->
 
 ---
