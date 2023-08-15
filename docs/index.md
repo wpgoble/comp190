@@ -6,7 +6,7 @@
     * Monday/Wednesday 1:00pm - 2:30pm
     * Tuesday/Thursday 10:00am - 11:30am
     * If these times do not work with your schedule, please email me and we can set up a time
-- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=49537)
+- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=53528)
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 ## COMP 190 Outline
@@ -14,27 +14,27 @@
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
                 | **Introduction to Linux**                                                      |                      |
-R 08/31/23      | C01 - Operating Systems, Docker and Linux               [ [Slides][s01] ]      | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
-R 09/07/23      | C02 - Linux Command Line Interface (CLI)                [ [Slides][s02] ]      | [HW02][hw02]         | [Everything You Should Know About Proprietary Software](https://www.brainspire.com/blog/what-you-should-know-about-proprietary-software-brainspire)
-R 09/14/23      | C03 - Linux Filters, Scripts and Pipes                  [ [Slides][s03] ]      | [HW03][hw03]         | [The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android)
-R 09/21/23      | C04 - Installing Software                               [ [Slides][s04] ]      | [HW04][hw04]         | [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
-R 09/28/23      | C05 - Docker: Dockerfiles and Images                    [ [Slides][s05] ]      | [HW05][hw05]         | [We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1152821)
+Thurs 08/31/23      | C01 - Operating Systems, Docker and Linux               [ [Slides][s01] ]      | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
+Thurs 09/07/23      | C02 - Linux Command Line Interface (CLI)                [ [Slides][s02] ]      | [HW02][hw02]         | [Everything You Should Know About Proprietary Software](https://www.brainspire.com/blog/what-you-should-know-about-proprietary-software-brainspire)
+Thurs 09/14/23      | C03 - Linux Filters, Scripts and Pipes                  [ [Slides][s03] ]      | [HW03][hw03]         | [The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android)
+Thurs 09/21/23      | C04 - Installing Software                               [ [Slides][s04] ]      | [HW04][hw04]         | [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
+Thurs 09/28/23      | C05 - Docker: Dockerfiles and Images                    [ [Slides][s05] ]      | [HW05][hw05]         | [We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1152821)
                 | **Open Source Projects and Structures**                                        |                      |
-R 10/05/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822)
-R 10/12/23      | C07 - FOSS Project Structures                           [ [Slides][s07] ]      | [HW07][hw07]         | [Can we Make Our Robots Less Biased Than We Are?](https://lms.dickinson.edu/mod/resource/view.php?id=1176432)
+Thurs 10/05/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822)
+Thurs 10/12/23      | C07 - FOSS Project Structures                           [ [Slides][s07] ]      | [HW07][hw07]         | [Can we Make Our Robots Less Biased Than We Are?](https://lms.dickinson.edu/mod/resource/view.php?id=1176432)
                 | *Spring Break*                                                                 |                      |
-R 10/19/23      | To Be Determined                                                               |                      |
-R 10/26/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
+Thurs 10/19/23      | To Be Determined                                                               |                      |
+Thurs 10/26/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
                 | **Open Source Tools and Collaboration**                                        |                      |
-R 11/02/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
-R 11/09/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
-R 11/16/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | [Disinformation Researchers Raise Alarms about A.I. Chatbots](https://lms.dickinson.edu/mod/resource/view.php?id=1182164)
-R 11/23/23      | Thanksgiving - No class                                                        |                      | 
-R 11/30/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | 
+Thurs 11/02/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
+Thurs 11/09/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
+Thurs 11/16/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | [Disinformation Researchers Raise Alarms about A.I. Chatbots](https://lms.dickinson.edu/mod/resource/view.php?id=1182164)
+Thurs 11/23/23      | Thanksgiving - No class                                                        |                      | 
+Thurs 11/30/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | 
                 | **Navigating Code**                                                            |                      |
-R 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         |
+Thurs 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         |
 |                                                                                                |                      |
-Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
+Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
 
 
 [s01]: materials/01-S-OSandLinux.pptx
