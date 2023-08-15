@@ -1,6 +1,6 @@
 ## COMP 190 Course Information
 - Fall Semester 2023
-  - R 1:30-2:45, Tome 118
+  - Thurs 1:30-2:45, Tome 118
 - [Syllabus & Course Information](syllabus.pdf)
 - Prof. Goble's Office Hours:
     * Monday/Wednesday 1:00pm - 2:30pm
@@ -10,6 +10,7 @@
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 ## COMP 190 Outline
+### The content of this outline is subject to change, if it does you will be notified via Teams
 
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
@@ -69,7 +70,6 @@ Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be co
 <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
 <!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
 <!---->
-
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
