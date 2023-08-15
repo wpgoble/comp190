@@ -28,8 +28,8 @@ R 11/02/23      | C09 - Communities and Collaboration                     [ [Sli
 R 11/09/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
 R 11/16/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | [Disinformation Researchers Raise Alarms about A.I. Chatbots](https://lms.dickinson.edu/mod/resource/view.php?id=1182164)
 R 11/23/23      | Thanksgiving - No class                                                        |                      | 
-                | **Navigating Code**                                                            |                      |
 R 11/30/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | 
+                | **Navigating Code**                                                            |                      |
 R 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         |
 |                                                                                                |                      |
 Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
