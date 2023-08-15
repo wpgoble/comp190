@@ -1,9 +1,11 @@
 ## COMP 190 Course Information
-- Spring Semester 2023
-  - W 3:00-4:15, Tome 231
-- [Syllabus & Course Information](syllabus.md)
-- [Prof. Braught's Page](http://users.dickinson.edu/~braught/) - with office hours.
-
+- Fall Semester 2023
+  - R 1:30-2:45, Tome 118
+- [Syllabus & Course Information](syllabus.pdf)
+- Prof. Goble's Office Hours:
+    * Monday/Wednesday 1:00pm - 2:30pm
+    * Tuesday/Thursday 10:00am - 11:30am
+    * If these times do not work with your schedule, please email me and we can set up a time
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=49537)
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
