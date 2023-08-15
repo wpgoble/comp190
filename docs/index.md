@@ -68,7 +68,7 @@ Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be co
 <!--
 <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
 <!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
--->
+<!---->
 
 ---
 
