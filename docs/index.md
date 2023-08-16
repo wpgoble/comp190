@@ -11,8 +11,11 @@
 <!--- [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb) -->
 - [Microsoft Team][404]
 
-## COMP 190 Outline[^1]
-### The content of this outline is subject to change, if it does you will be notified via Teams
+## COMP 190 Outline
+Here is an outline of what we will cover during this course.[^1]
+**The content of this outline is subject to change, if it does you will be notified via Teams**
+
+[^1]: These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
 
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
@@ -76,7 +79,6 @@ Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be co
 <!---->
 ---
 
-[^1]: These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
