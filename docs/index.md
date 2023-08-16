@@ -7,7 +7,9 @@
     * Tuesday/Thursday 10:00am - 11:30am
     * If these times do not work with your schedule, please email me and we can set up a time
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=53528)
-- [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
+<!-- Update the Teams link -->
+<!--- [Microsoft Team](https://teams.microsoft.com/l/team/19%3acAO_g5e-OUxsFORBOh7SCgymvKHvJlBwEqVojFzw1vE1%40thread.tacv2/conversations?groupId=bd18bcf6-1b9a-4c91-84f6-ff062c039a8a&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb) -->
+- [Microsoft Team][404]
 
 ## COMP 190 Outline
 ### The content of this outline is subject to change, if it does you will be notified via Teams
@@ -65,6 +67,8 @@ Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be co
 [hw12]: materials/12-A-MergeConflicts.docx
 [s13]: materials/13-S-NavigatingCode.pptx
 [hw13]: materials/13-A-NavigatingCode.docx
+
+[404]: 404.md
 
 <!--
 <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
