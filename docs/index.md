@@ -12,10 +12,10 @@
 - [Microsoft Team][404]
 
 ## COMP 190 Outline
-Here is an outline of what we will cover during this course.[^1]
+Here is an outline of what we will cover during this course.<sup>[1](#firstFootnote)</sup>
 **The content of this outline is subject to change, if it does you will be notified via Teams**
 
-[^1]: These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
+These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
 
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
@@ -41,6 +41,8 @@ Thurs 11/30/23      | C12 - Resolving Merge Conflicts                         [ 
 Thurs 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         |
 |                                                                                                |                      |
 Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
+
+<a name="firstFootnote">1</a>: These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
 
 
 [s01]: materials/01-S-OSandLinux.pptx
