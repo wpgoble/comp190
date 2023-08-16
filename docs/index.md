@@ -12,8 +12,6 @@
 - [Microsoft Team][404]
 
 ## COMP 190 Outline
-Here is an outline of what we will cover during this course.
-<br/>
 These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
 <br/>
 **The content of this outline is subject to change, if it does you will be notified via Teams**
