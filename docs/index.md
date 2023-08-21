@@ -77,6 +77,7 @@ Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be co
 [comment2]: https://lms.dickinson.edu/mod/resource/view.php?id=1152826
 
 ---
+Last Updated: Aug. 2023
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
