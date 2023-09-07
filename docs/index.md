@@ -3,7 +3,7 @@
   - Thurs 1:30-2:45, Tome 118
 - [Syllabus & Course Information](syllabus.pdf)
 - Prof. Goble's Office Hours:
-    * Monday/Wednesday 1:00pm - 2:30pm
+    * Wednesday 1:00pm - 2:30pm
     * Tuesday/Thursday 10:00am - 11:30am
     * If these times do not work with your schedule, please email me and we can set up a time
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=53528)
