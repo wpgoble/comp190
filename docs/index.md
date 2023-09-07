@@ -26,7 +26,6 @@ Thurs 09/28/23      | C05 - Docker: Dockerfiles and Images                    [ 
                 | **Open Source Projects and Structures**                                        |                      |
 Thurs 10/05/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822)
 Thurs 10/12/23      | C07 - FOSS Project Structures                           [ [Slides][s07] ]      | [HW07][hw07]         | [Can we Make Our Robots Less Biased Than We Are?](https://lms.dickinson.edu/mod/resource/view.php?id=1176432)
-                | *Spring Break*                                                                 |                      |
 Thurs 10/19/23      | To Be Determined                                                               |                      |
 Thurs 10/26/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
                 | **Open Source Tools and Collaboration**                                        |                      |
