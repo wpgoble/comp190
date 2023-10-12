@@ -26,8 +26,8 @@ Thurs 09/28/23      | C05 - Docker: Dockerfiles and Images                    [ 
                 | **Open Source Projects and Structures**                                        |                      |
 Thurs 10/05/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](readings/Dealing.pdf)
 Thurs 10/12/23      | C07 - FOSS Project Structures                           [ [Slides][s07] ]      | [HW07][hw07]         | [Can we Make Our Robots Less Biased Than We Are?](readings/RobotBias.pdf)
-Thurs 10/19/23      | To Be Determined                                                               |                      |
-Thurs 10/26/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
+Thurs 10/19/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
+Thurs 10/23/23      | Peer Review Session                                                            |                      |
                 | **Open Source Tools and Collaboration**                                        |                      |
 Thurs 11/02/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
 Thurs 11/09/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
