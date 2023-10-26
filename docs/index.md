@@ -11,6 +11,7 @@
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3a5kbJ3uICXtOQbvchUmhvy5jr_myEjGz-_LYNLWwQpac1%40thread.tacv2/conversations?groupId=f9409b98-7e6e-468e-90aa-fb5ae23ccd99&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 - [FarmData Repo](https://github.com/dickinson-comp190/GitKit-FarmData2-F23)
 - [Corrected Assignment 8](materials/08-A-IssueTracker_new.docx)
+- [Preclass survey](https://drexel.qualtrics.com/jfe/form/SV_bIsPs5GpmGUMUfk)
 
 ## COMP 190 Outline
 These slides and assignments are originally the work of Prof. Braught and they have been adapted to our course.
