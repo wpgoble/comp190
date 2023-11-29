@@ -38,7 +38,7 @@ Thurs 11/16/23      | C11 - Staying Synchronized                              [ 
 Thurs 11/23/23      | Thanksgiving - No class                                                        |                      | 
 Thurs 11/30/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | 
                 | **Navigating Code**                                                            |                      |
-Thurs 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         |
+Thurs 12/07/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      |          |
 |                                                                                                |                      |
 Thurs 12/14/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
 
